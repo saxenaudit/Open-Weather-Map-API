@@ -1,6 +1,6 @@
 # Open-Weather-Map-API
 
-**Simple implementation of Open Weather Map API to get the current weather details.**
+**Simple implementation of Open Weather Map API to get the current weather details using simple javascript and html.**
 ##### It,s just a basic version next going to convert it into App using <em>Flutter</em>
 #### The WebApp app will show -
 
