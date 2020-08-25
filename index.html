@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#4caf50" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js"></script>
+    <title>My Weather App</title>
+  </head>
+  <body>
+    <center>
+      <label>Enter City name: </label
+      ><input value="meerut" type="text" id="city" autofocus />
+      <br />
+      <br />
+      <button class="button" onclick="getWeather()">Fetch Weather</button>
+      <br />
+      <img src="" id="icon" />
+      <p>The temp is</p>
+      <span id="temp"> </span><span><sup>&deg;</sup>C</span>
+      <p id="desc">having, <span id="description"></span></p>
+      <p>Feels Like <span id="feels"></span> &deg;C</p>
+      <p>Humidity is <span id="humidity"></span></p>
+    </center>
+  </body>
+</html>
