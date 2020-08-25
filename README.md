@@ -20,3 +20,5 @@
 6. Save it, Run in your local browser or Deploy.
 
 ## [DEMO](https://owm-api-demo.surge.sh)
+
+![screenshot of webapp](https://github.com/saxenaudit/Open-Weather-Map-API/blob/master/screenshot/sc.png)
